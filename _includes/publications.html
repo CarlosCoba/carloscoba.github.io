@@ -1,0 +1,50 @@
+{% assign pubs = site.data.publications %}
+{% assign n_ref = pubs | where: "refereed", true | size %}
+{% assign n_first = pubs | where: "first_author", true | size %}
+<div class="pub-tools">
+  <input type="search" id="pub-search" placeholder="Search title, author or journal" aria-label="Search publications">
+  <label><input type="checkbox" id="pub-first"> First author</label>
+  <label><input type="checkbox" id="pub-refereed"> Refereed only</label>
+</div>
+<p class="pub-stats"><span id="pub-count">{{ pubs | size }}</span> publications · {{ n_ref }} refereed · {{ n_first }} first-author</p>
+
+{% assign by_year = pubs | group_by: "year" %}
+{% for group in by_year %}
+<h2 class="pub-year">{{ group.name }}</h2>
+<ol class="pubs">
+{% for p in group.items %}
+  <li data-first="{{ p.first_author }}" data-refereed="{{ p.refereed }}" data-search="{{ p.title | append: ' ' | append: p.authors | append: ' ' | append: p.venue | strip_html | downcase | escape }}">
+    <a class="pub-title" href="{{ p.ads }}" target="_blank" rel="noopener">{{ p.title | escape }}</a>
+    <div class="pub-authors">{{ p.authors }}</div>
+    <div class="pub-venue">{{ p.venue | escape }}, {{ p.year }}</div>
+    <div class="pub-links">
+      <a class="btn btn--primary btn--small" href="{{ p.ads }}" target="_blank" rel="noopener">ADS</a>
+      {% if p.doi != "" %}<a class="btn btn--inverse btn--small" href="https://doi.org/{{ p.doi }}" target="_blank" rel="noopener">DOI</a>{% endif %}
+      {% if p.arxiv != "" %}<a class="btn btn--inverse btn--small" href="https://arxiv.org/abs/{{ p.arxiv }}" target="_blank" rel="noopener">arXiv</a>{% endif %}
+    </div>
+  </li>
+{% endfor %}
+</ol>
+{% endfor %}
+
+<script>
+(function () {
+  var q = document.getElementById("pub-search"), first = document.getElementById("pub-first"),
+      ref = document.getElementById("pub-refereed"), count = document.getElementById("pub-count");
+  function apply() {
+    var terms = q.value.toLowerCase().split(/\s+/).filter(Boolean), n = 0;
+    document.querySelectorAll("ol.pubs").forEach(function (ol) {
+      var visible = 0;
+      ol.querySelectorAll("li").forEach(function (li) {
+        var ok = terms.every(function (t) { return li.dataset.search.indexOf(t) !== -1; });
+        if (first.checked && li.dataset.first !== "true") ok = false;
+        if (ref.checked && li.dataset.refereed !== "true") ok = false;
+        li.hidden = !ok; if (ok) visible++;
+      });
+      ol.hidden = !visible; ol.previousElementSibling.hidden = !visible; n += visible;
+    });
+    count.textContent = n;
+  }
+  [q, first, ref].forEach(function (el) { el.addEventListener("input", apply); });
+})();
+</script>

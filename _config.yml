@@ -1,0 +1,82 @@
+# Site settings --------------------------------------------------------------
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+minimal_mistakes_skin: "default"   # colours are customised in assets/css/main.scss
+
+locale: "en-US"
+title: "Carlos López-Cobá"
+title_separator: "|"
+subtitle: "Astrophysicist · Galaxy kinematics"
+name: "Carlos López-Cobá"
+description: "Carlos López-Cobá, postdoctoral researcher at the University of Oklahoma working on the kinematics of galaxies, 3D spectroscopy and the XookSuut kinematic-modelling codes."
+url: "https://carloscoba.github.io"
+baseurl: ""
+repository: "CarlosCoba/carloscoba.github.io"
+logo: "/assets/images/favicon.svg"
+og_image: "/assets/images/hero-galaxy.jpg"
+search: true
+breadcrumbs: false
+
+# Author sidebar -------------------------------------------------------------
+author:
+  name: "Carlos López-Cobá"
+  avatar: "/assets/images/profile.jpg"
+  bio: "Postdoctoral Research Associate, University of Oklahoma. Galaxy kinematics, non-circular motions and 3D spectroscopy."
+  location: "Norman, Oklahoma, USA"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:carlos.lopezcoba@gmail.com"
+    - label: "CV (PDF)"
+      icon: "fas fa-fw fa-file-pdf"
+      url: "/assets/files/CV.pdf"
+    - label: "ORCID"
+      icon: "fab fa-fw fa-orcid"
+      url: "https://orcid.org/0000-0003-1045-0702"
+    - label: "NASA ADS"
+      icon: "fas fa-fw fa-book"
+      url: "https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0003-1045-0702&sort=date%20desc%2C%20bibcode%20desc"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/CarlosCoba"
+
+footer:
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:carlos.lopezcoba@gmail.com"
+    - label: "ORCID"
+      icon: "fab fa-fw fa-orcid"
+      url: "https://orcid.org/0000-0003-1045-0702"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/CarlosCoba"
+
+# Build settings -------------------------------------------------------------
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+permalink: /:categories/:title/
+include: ["_pages"]
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - scripts/
+  - vendor/
+  - .github/
+  - _bibliography/
+
+plugins:
+  - jekyll-include-cache
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true

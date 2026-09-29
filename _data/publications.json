@@ -1,14 +1,146 @@
 [
  {
-  "year": "2023",
-  "title": "The ALMaQUEST Survey XIV: do radial molecular gas flows affect the star-forming ability of barred galaxies?",
-  "authors": "Hogarth, L. M.; Saintonge, A.; Davis, T. A.; Ellison, S. L.; Lin, L.; <strong>López-Cobá, C.</strong>; Pan, H.-A.; Thorp, M. D.",
-  "venue": "arXiv:2312.14702",
-  "ads": "https://ui.adsabs.harvard.edu/abs/2023arXiv231214702H",
-  "doi": "10.48550/arXiv.2312.14702",
-  "arxiv": "2312.14702",
+  "year": "2026",
+  "title": "Inside-out versus Outside-in Quenching of MaNGA Galaxies: Dependence on Stellar Mass and Environment",
+  "authors": "Ho, Z.-H.; Lin, L.; Jian, H.-Y.; Hsieh, B.-C.; <strong>López-Cobá, C.</strong>; Sánchez, S. F.; Wu, W.-Y.; Feng, S.; et al. (9 authors)",
+  "venue": "ApJ, 1005, 85",
+  "ads": "https://ui.adsabs.harvard.edu/abs/2026ApJ..1005...85H",
+  "doi": "10.3847/1538-4357/ae7320",
+  "arxiv": "",
+  "first_author": false,
+  "refereed": true
+ },
+ {
+  "year": "2026",
+  "title": "Inside-Out vs. Outside-In Quenching of MaNGA Galaxies: Dependence on Stellar Mass and Environment",
+  "authors": "Ho, Z.-H.; Lin, L.; Jian, H.-Y.; Hsieh, B.-C.; <strong>López-Cobá, C.</strong>; Sánchez, S. F.; Wu, W.-Y.; Feng, S.; et al. (9 authors)",
+  "venue": "arXiv:2606.01297",
+  "ads": "https://ui.adsabs.harvard.edu/abs/2026arXiv260601297H",
+  "doi": "10.48550/arXiv.2606.01297",
+  "arxiv": "2606.01297",
   "first_author": false,
   "refereed": false
+ },
+ {
+  "year": "2026",
+  "title": "The GECKOS survey: Resolving the molecular and ionised gas in the galactic outflow of ESOraisebox-0.5extextasciitilde484-036",
+  "authors": "Hernández-Yévenes, J.; Fisher, D. B.; Mazzilli Ciraulo, B.; Davies, R. L.; Martig, M.; Fraser-McKelvie, A.; van de Sande, J.; Hayden, M. R.; et al. (23 authors, incl. <strong>López-Cobá, C.</strong>)",
+  "venue": "arXiv:2604.14546",
+  "ads": "https://ui.adsabs.harvard.edu/abs/2026arXiv260414546H",
+  "doi": "10.48550/arXiv.2604.14546",
+  "arxiv": "2604.14546",
+  "first_author": false,
+  "refereed": false
+ },
+ {
+  "year": "2025",
+  "title": "Comparing Inside-out and Outside-in Quenching Modes in MaNGA Observation and MaNGIA Simulation",
+  "authors": "Jian, H.-Y.; Lin, L.; Bottrell, C.; Hsieh, B.-C.; <strong>López-Cobá, C.</strong>; Ho, Z.-H.; Feng, S.; Shen, S.",
+  "venue": "ApJ, 995, 187",
+  "ads": "https://ui.adsabs.harvard.edu/abs/2025ApJ...995..187J",
+  "doi": "10.3847/1538-4357/ae1a81",
+  "arxiv": "",
+  "first_author": false,
+  "refereed": true
+ },
+ {
+  "year": "2025",
+  "title": "Physical Properties of Gas Departing from Circular Rotation at 50 pc Scales Using the PHANGS-MUSE Galaxies",
+  "authors": "<strong>López-Cobá, C.</strong>; Lin, L.; Cruz Gonzalez, I.; Sánchez, S. F.; Pan, H.-A.; Barrera-Ballesteros, J. K.; Hsieh, B.-C.",
+  "venue": "AJ, 170, 236",
+  "ads": "https://ui.adsabs.harvard.edu/abs/2025AJ....170..236L",
+  "doi": "10.3847/1538-3881/adfb76",
+  "arxiv": "2508.18517",
+  "first_author": true,
+  "refereed": true
+ },
+ {
+  "year": "2024",
+  "title": "Do Strong Bars Exhibit Strong Noncircular Motions?",
+  "authors": "Kim, T.; Gadotti, D. A.; Lee, Y. H.; <strong>López-Cobá, C.</strong>; Kim, W.-T.; Kim, M.; Park, M.-g.",
+  "venue": "ApJ, 976, 220",
+  "ads": "https://ui.adsabs.harvard.edu/abs/2024ApJ...976..220K",
+  "doi": "10.3847/1538-4357/ad8573",
+  "arxiv": "2410.20583",
+  "first_author": false,
+  "refereed": true
+ },
+ {
+  "year": "2024",
+  "title": "On the Role of Noncircular Motions in MaNGA Galaxies. I. Global Properties",
+  "authors": "<strong>López-Cobá, C.</strong>; Lin, L.; Neumann, J.; Bershady, M. A.",
+  "venue": "ApJ, 975, 182",
+  "ads": "https://ui.adsabs.harvard.edu/abs/2024ApJ...975..182L",
+  "doi": "10.3847/1538-4357/ad7b12",
+  "arxiv": "2410.21147",
+  "first_author": true,
+  "refereed": true
+ },
+ {
+  "year": "2024",
+  "title": "AGN feedback can produce metal enrichment on galaxy scales",
+  "authors": "Villar Martín, M.; <strong>López Cobá, C.</strong>; Cazzoli, S.; Pérez Montero, E.; Cabrera Lavers, A.",
+  "venue": "A&A, 690, A397",
+  "ads": "https://ui.adsabs.harvard.edu/abs/2024A&A...690A.397V",
+  "doi": "10.1051/0004-6361/202449621",
+  "arxiv": "2407.02115",
+  "first_author": false,
+  "refereed": true
+ },
+ {
+  "year": "2024",
+  "title": "XookSuut: A Bayesian Tool for Modeling Circular and Non─Circular Flows on 2D Velocity Maps",
+  "authors": "<strong>López-Cobá, C.</strong>; Lin, L.; Sánchez, S. F.",
+  "venue": "RMxAA, 60, 19-39",
+  "ads": "https://ui.adsabs.harvard.edu/abs/2024RMxAA..60...19L",
+  "doi": "10.22201/ia.01851101p.2024.60.01.03",
+  "arxiv": "2110.05095",
+  "first_author": true,
+  "refereed": true
+ },
+ {
+  "year": "2024",
+  "title": "The ALMaQUEST Survey. XII. Dense Molecular Gas as Traced by HCN and HCO^+ in Green Valley Galaxies",
+  "authors": "Lin, L.; Pan, H.-A.; Ellison, S. L.; Harada, N.; Jiménez-Donaire, M. J.; French, K. D.; Baker, W. M.; Hsieh, B.-C.; et al. (14 authors, incl. <strong>López-Cobá, C.</strong>)",
+  "venue": "ApJ, 963, 115",
+  "ads": "https://ui.adsabs.harvard.edu/abs/2024ApJ...963..115L",
+  "doi": "10.3847/1538-4357/ad18b9",
+  "arxiv": "2401.05976",
+  "first_author": false,
+  "refereed": true
+ },
+ {
+  "year": "2024",
+  "title": "The ALMaQUEST Survey XIV: do radial molecular gas flows affect the star-forming ability of barred galaxies?",
+  "authors": "Hogarth, L. M.; Saintonge, A.; Davis, T. A.; Ellison, S. L.; Lin, L.; <strong>López-Cobá, C.</strong>; Pan, H. -A.; Thorp, M. D.",
+  "venue": "MNRAS, 528, 6768-6785",
+  "ads": "https://ui.adsabs.harvard.edu/abs/2024MNRAS.528.6768H",
+  "doi": "10.1093/mnras/stae377",
+  "arxiv": "2312.14702",
+  "first_author": false,
+  "refereed": true
+ },
+ {
+  "year": "2024",
+  "title": "H II regions and diffuse ionized gas in the AMUSING++ Compilation - I. Catalogue presentation",
+  "authors": "Lugo-Aranda, A. Z.; Sánchez, S. F.; Barrera-Ballesteros, J. K.; <strong>López-Cobá, C.</strong>; Espinosa-Ponce, C.; Galbany, L.; Anderson, J. P.",
+  "venue": "MNRAS, 528, 6099-6118",
+  "ads": "https://ui.adsabs.harvard.edu/abs/2024MNRAS.528.6099L",
+  "doi": "10.1093/mnras/stae345",
+  "arxiv": "2401.15807",
+  "first_author": false,
+  "refereed": true
+ },
+ {
+  "year": "2024",
+  "title": "Unveiling a Hidden Bar-like Structure in NGC 1087: Kinematic and Photometric Evidence Using MUSE/VLT, ALMA, and JWST",
+  "authors": "<strong>López-Cobá, C.</strong>; Lin, L.; Sánchez, S. F.",
+  "venue": "ApJ, 962, 65",
+  "ads": "https://ui.adsabs.harvard.edu/abs/2024ApJ...962...65L",
+  "doi": "10.3847/1538-4357/ad152a",
+  "arxiv": "2312.04098",
+  "first_author": true,
+  "refereed": true
  },
  {
   "year": "2023",
@@ -56,6 +188,17 @@
  },
  {
   "year": "2022",
+  "title": "Exploring Stellar and Ionized Gas Noncircular Motions in Barred Galaxies with MUSE",
+  "authors": "<strong>López-Cobá, C.</strong>; Sánchez, S. F.; Lin, L.; Anderson, J. P.; Lin, K.-Y.; Cruz-González, I.; Galbany, L.; Barrera-Ballesteros, J. K.",
+  "venue": "ApJ, 939, 40",
+  "ads": "https://ui.adsabs.harvard.edu/abs/2022ApJ...939...40L",
+  "doi": "10.3847/1538-4357/ac937b",
+  "arxiv": "2207.07906",
+  "first_author": true,
+  "refereed": true
+ },
+ {
+  "year": "2022",
   "title": "The ALMaQUEST Survey. VIII. What Causes the Discrepancy in the Velocity between the CO and Hα Rotation Curves in Galaxies?",
   "authors": "Su, Y.-C.; Lin, L.; Pan, H.-A.; <strong>López Cobá, C.</strong>; Hsieh, B.-C.; Sánchez, S. F.; Thorp, M. D.; Bureau, M.; et al. (9 authors)",
   "venue": "ApJ, 934, 173",
@@ -79,7 +222,7 @@
  {
   "year": "2022",
   "title": "The Seventeenth Data Release of the Sloan Digital Sky Surveys: Complete Release of MaNGA, MaStar, and APOGEE-2 Data",
-  "authors": "Abdurro&#x27;uf; Accetta, K.; Aerts, C.; Silva Aguirre, V.; Ahumada, R.; Ajgaonkar, N.; Filiz Ak, N.; Alam, S.; et al. (341 authors, incl. <strong>López-Cobá, C.</strong>)",
+  "authors": "Abdurro&#x27;uf; Accetta, K.; Aerts, C.; Silva Aguirre, V.; Ahumada, R.; Ajgaonkar, N.; Filiz Ak, N.; Alam, S.; et al. (200 authors, incl. <strong>López-Cobá, C.</strong>)",
   "venue": "ApJS, 259, 35",
   "ads": "https://ui.adsabs.harvard.edu/abs/2022ApJS..259...35A",
   "doi": "10.3847/1538-4365/ac4414",
@@ -122,25 +265,14 @@
  },
  {
   "year": "2020",
-  "title": "VizieR Online Data Catalog: AMUSING++ nearby galaxy compilation. I. Sample (Lopez-Coba+, 2020)",
-  "authors": "<strong>Lopez-Coba, C.</strong>; Sanchez, S. F.; Anderson, J. P.; Cruz-Gonzalez, I.; Galbany, L.; Ruiz-Lara, T.; Barrera-Ballesteros, J. K.; Prieto, J. L.; et al. (9 authors)",
-  "venue": "VizieR Online Data Catalog, J/AJ/159/167",
-  "ads": "https://ui.adsabs.harvard.edu/abs/2020yCat..51590167L",
-  "doi": "10.26093/cds/vizier.51590167",
-  "arxiv": "",
+  "title": "The AMUSING++ Nearby Galaxy Compilation. I. Full Sample Characterization and Galactic-scale Outflow Selection",
+  "authors": "<strong>López-Cobá, C.</strong>; Sánchez, S. F.; Anderson, J. P.; Cruz-González, I.; Galbany, L.; Ruiz-Lara, T.; Barrera-Ballesteros, J. K.; Prieto, J. L.; et al. (9 authors)",
+  "venue": "AJ, 159, 167",
+  "ads": "https://ui.adsabs.harvard.edu/abs/2020AJ....159..167L",
+  "doi": "10.3847/1538-3881/ab7848",
+  "arxiv": "2002.09328",
   "first_author": true,
-  "refereed": false
- },
- {
-  "year": "2020",
-  "title": "VizieR Online Data Catalog: Mass-metallicity relation revisited with CALIFA (Sanchez+ 2017)",
-  "authors": "Sanchez, S. F.; Barrera-Ballesteros, J. K.; Sanchez-Menguiano, L.; Walcher, C. J.; Marino, R. A.; Galbany, L.; Bland-Hawthorn, J.; Cano-Diaz, M.; et al. (17 authors, incl. <strong>Lopez-Coba, C.</strong>)",
-  "venue": "VizieR Online Data Catalog, J/MNRAS/469/2121",
-  "ads": "https://ui.adsabs.harvard.edu/abs/2020yCat..74692121S",
-  "doi": "",
-  "arxiv": "",
-  "first_author": false,
-  "refereed": false
+  "refereed": true
  },
  {
   "year": "2020",
@@ -176,6 +308,28 @@
   "refereed": true
  },
  {
+  "year": "2019",
+  "title": "Systematic study of outflows in the Local Universe using CALIFA: I. Sample selection and main properties",
+  "authors": "<strong>López-Cobá, C.</strong>; Sánchez, S. F.; Bland-Hawthorn, J.; Moiseev, A. V.; Cruz-González, I.; García-Benito, R.; Barrera-Ballesteros, J. K.; Galbany, L.",
+  "venue": "MNRAS, 482, 4032-4056",
+  "ads": "https://ui.adsabs.harvard.edu/abs/2019MNRAS.482.4032L",
+  "doi": "10.1093/mnras/sty2960",
+  "arxiv": "1811.01253",
+  "first_author": true,
+  "refereed": true
+ },
+ {
+  "year": "2017",
+  "title": "Serendipitous Discovery of an Optical Emission-line Jet in NGC 232",
+  "authors": "<strong>López-Cobá, C.</strong>; Sánchez, S. F.; Cruz-González, I.; Binette, L.; Galbany, L.; Krühler, T.; Rodríguez, L. F.; Barrera-Ballesteros, J. K.; et al. (12 authors)",
+  "venue": "ApJL, 850, L17",
+  "ads": "https://ui.adsabs.harvard.edu/abs/2017ApJ...850L..17L",
+  "doi": "10.3847/2041-8213/aa98db",
+  "arxiv": "1711.02785",
+  "first_author": true,
+  "refereed": true
+ },
+ {
   "year": "2017",
   "title": "The mass-metallicity relation revisited with CALIFA",
   "authors": "Sánchez, S. F.; Barrera-Ballesteros, J. K.; Sánchez-Menguiano, L.; Walcher, C. J.; Marino, R. A.; Galbany, L.; Bland-Hawthorn, J.; Cano-Díaz, M.; et al. (17 authors, incl. <strong>López-Cobá, C.</strong>)",
@@ -184,6 +338,17 @@
   "doi": "10.1093/mnras/stx808",
   "arxiv": "1703.09769",
   "first_author": false,
+  "refereed": true
+ },
+ {
+  "year": "2017",
+  "title": "Star formation driven galactic winds in UGC 10043",
+  "authors": "<strong>López-Cobá, C.</strong>; Sánchez, S. F.; Moiseev, A. V.; Oparin, D. V.; Bitsakis, T.; Cruz-González, I.; Morisset, C.; Galbany, L.; et al. (18 authors)",
+  "venue": "MNRAS, 467, 4951-4964",
+  "ads": "https://ui.adsabs.harvard.edu/abs/2017MNRAS.467.4951L",
+  "doi": "10.1093/mnras/stw3355",
+  "arxiv": "1701.01695",
+  "first_author": true,
   "refereed": true
  },
  {
@@ -222,7 +387,7 @@
  {
   "year": "2015",
   "title": "The CALIFA Survey: Exploring the Oxygen Abundance in the Local Universe",
-  "authors": "Sánchez, S.; Sánchez-Menguiano, L.; Marino, R.; Rosales-Ortega, F.; Pérez, I.; de Paz, A.; Pérez, E.; Walcher, C.; et al. (10 authors, incl. <strong>López-Cobá, C.</strong>)",
+  "authors": "Sánchez, S.; Sánchez-Menguiano, L.; Marino, R.; Rosales-Ortega, F.; Pérez, I.; Gil de Paz, A.; Pérez, E.; Walcher, C.; et al. (10 authors, incl. <strong>López-Cobá, C.</strong>)",
   "venue": "Galaxies, 3, 164-183",
   "ads": "https://ui.adsabs.harvard.edu/abs/2015Galax...3..164S",
   "doi": "10.3390/galaxies3040164",

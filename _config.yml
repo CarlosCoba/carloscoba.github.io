@@ -12,7 +12,7 @@ url: "https://carloscoba.github.io"
 baseurl: ""
 repository: "CarlosCoba/carloscoba.github.io"
 logo: "/assets/images/favicon.svg"
-og_image: "/assets/images/hero-galaxy.jpg"
+og_image: "/assets/images/caracol.jpg"
 search: true
 breadcrumbs: false
 

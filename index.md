@@ -5,7 +5,7 @@ title: "Carlos López-Cobá"
 excerpt: "Astrophysicist studying how gas moves in galaxies, from nearby barred spirals to the high-redshift Universe."
 author_profile: true
 header:
-  overlay_image: /assets/images/hero-galaxy.jpg
+  overlay_image: /assets/images/caracol.jpg
   overlay_filter: 0.25
   caption: "Illustration: a rotating disk coloured by line-of-sight velocity"
   actions:

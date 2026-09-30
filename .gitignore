@@ -7,3 +7,4 @@ vendor/
 Gemfile.lock
 __pycache__/
 .DS_Store
+carlos_readme.md

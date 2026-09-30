@@ -3,7 +3,7 @@ title: "Publications"
 permalink: /publications/
 excerpt: "Refereed papers and preprints, each linked to the NASA Astrophysics Data System."
 header:
-  overlay_image: /assets/images/hero-galaxy.jpg
+  overlay_image: /assets/images/spm.JPG
   overlay_filter: 0.45
 ---
 

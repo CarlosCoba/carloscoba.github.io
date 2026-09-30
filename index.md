@@ -7,7 +7,7 @@ author_profile: true
 header:
   overlay_image: /assets/images/spm.JPG
   overlay_filter: 0.25
-  caption: "Illustration: a rotating disk coloured by line-of-sight velocity"
+  caption: "Illustration: San Pedro Martir observatory, Mexico"
   actions:
     - label: "Publications"
       url: "/publications/"

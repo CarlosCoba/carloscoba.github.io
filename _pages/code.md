@@ -6,7 +6,7 @@ toc: true
 toc_label: "Tutorial"
 toc_sticky: true
 header:
-  overlay_image: /assets/images/cover.png
+  overlay_image: /assets/images/cover2.png
   overlay_filter: 0.45
   actions:
     - label: "<i class='fab fa-github'></i> XS3D on GitHub"
